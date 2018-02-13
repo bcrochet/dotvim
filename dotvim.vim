@@ -52,7 +52,7 @@ set et                  " expand tabs into spaces
 
 " mouse settings
 if has("mouse")
-  set mouse=a
+  set mouse=v
 endif
 set mousehide           " Hide mouse pointer on insert mode."
 
